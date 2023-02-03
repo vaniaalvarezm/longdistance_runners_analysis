@@ -1,0 +1,211 @@
+﻿ranking,participant,first_name,last_name,time,distance_km,date_of_competiton,competition,place_of_comp,date_of_birth,age_at_comp,place_of_birth,country_of_birth,nationality,height_cm,weight_kg
+1,Eliud Kipchoge ,Eliud,Kipchoge,2:08:44,42.195,8/21/16,Rio Olympics 2016,"Rio de Janeiro, Brazil",5/11/1984,31.79,Nandi County,KEN,KEN,167.64,52.16
+2,Feyisa Lilesa,Feyisa,Lilesa,2:09:54,42.195,8/21/16,Rio Olympics 2016,"Rio de Janeiro, Brazil",1/2/1990,26.55,Oromia,ETH,ETH,175,67
+3,Galen Rupp,Galen,Rupp,2:10:05,42.195,8/21/16,Rio Olympics 2016,"Rio de Janeiro, Brazil",8/5/1986,30.28,Portland,USA,USA,180,61
+4,Ghirmay Ghebreslassie,Ghirmay,Ghebreslassie,2:11:04,42.195,8/21/16,Rio Olympics 2016,"Rio de Janeiro, Brazil",14/11/1995,24.93,Asmara,ERI,ERI,,
+5,Alphonce Simbu,Alphonce,Simbu,2:11:15,42.195,8/21/16,Rio Olympics 2016,"Rio de Janeiro, Brazil",14/2/1992,28.68,Singida,TAN,TAN,,55
+6,Jared Ward,Jared,Ward,2:11:30,42.195,8/21/16,Rio Olympics 2016,"Rio de Janeiro, Brazil",9/9/1988,32.11,Layton,USA,USA,175,61
+7,Tadesse Abraham,Tadesse,Abraham,2:11:42,42.195,8/21/16,Rio Olympics 2016,"Rio de Janeiro, Brazil",12/8/1982,38.19,Asmara,ERI,SUI,177,60
+8,Solomon Mutai,Solomon,Mutai,2:11:49,42.195,8/21/16,Rio Olympics 2016,"Rio de Janeiro, Brazil",22/10/1992,27.91,Bukwo,UGA,UGA,,
+9,Callum Hawkins,Callum,Hawkins,2:11:52,42.195,8/21/16,Rio Olympics 2016,"Rio de Janeiro, Brazil",22/6/1992,28.33,Elderslie,GBR,GBR,179,62
+10,Eric Gillis,Eric,Gillis,2:12:29,42.195,8/21/16,Rio Olympics 2016,"Rio de Janeiro, Brazil",8/3/1990,30.62,Antigonish,CAN,CAN,170,58
+1,Stephen Kiprotich,Stephen,Kiprotich,2:08:01,42.195,12/8/12,London Olympics 2012,"London, UK",27/2/1989,23.45,"Kapchorwa, Uganda",UGA,UGA,172.72,55.79
+2,Abel Kirui,Abel,Kirui,2:08:27,42.195,12/8/12,London Olympics 2012,"London, UK",6/4/1982,30.35,"Bomet, Kenya",KEN,KEN,175.26,58.05
+3,Wilson Kiprotich,Wilson,Kiprotich,2:09:37,42.195,12/8/12,London Olympics 2012,"London, UK",15/3/1982,30.41,"Keiyo District, Kenya",KEN,KEN,182.88,62.14
+4,Mebrahtom Keflezighi,Mebrahtom,Keflezighi,2:11:06,42.195,12/8/12,London Olympics 2012,"London, UK",5/5/1975,32.27,"Asmara, Eritrea",ERI,USA,165.1,57.15
+5,Marilson Dos Santos,Marilson,Dos Santos,2:11:10,42.195,12/8/12,London Olympics 2012,"London, UK",6/8/1977,35.01,"Brasilia, Brazil",BRA,BRA,172.72,57.15
+6,Kentaro Nakamoto,Kentaro,Nakamoto,2:11:16,42.195,12/8/12,London Olympics 2012,"London, UK",7/12/1982,29.68,"Shimonoseki, Japan",JPN,JPN,172.72,57.15
+7,Cuthbert Nyasango,Curthbert,Nyasango,2:12:08,42.195,12/8/12,London Olympics 2012,"London, UK",17/9/1982,29.9,"Nyanga, Zimbabwe",ZIM,ZIM,162.56,55.79
+8,Paulo Paula,Paulo,Paula,2:12:17,42.195,12/8/12,London Olympics 2012,"London, UK",8/7/1979,33.09,"Sao Paulo, Brazil",BRA,BRA,170.18,54.88
+9,Henryk Szost,Henryk,Szost,2:12:28,42.195,12/8/12,London Olympics 2012,"London, UK",20/01/1982,30.55,"Krynica, Poland",POL,POL,185.42,68.03
+10,Ruggero Pertile,Ruggero,Pertile,2:12:45,42.195,12/8/12,London Olympics 2012,"London, UK",8/8/1974,38.01,"Camposampiero, Italy",ITA,ITA,170.18,55.79
+1,Samuel Wanjiru,Samuel,Wanjiru,2:06:32,42.195,24/08/2008,Beijing Olympics 2008,"Beijing, China",11/10/1986,21.78,"Nyahururu, Kenya",KEN,KEN,162.56,52.16
+2,Jaouad Gharib,Jaouad,Gharib,2:07:16,42.195,24/08/2008,Beijing Olympics 2008,"Beijing, China",22/5/1972,36.25,"Khenifra, Morroco",MAR,MAR,176.00,66.22
+3,Tsegay Kebede,Tsegay,Kebede,2:10:00,42.195,24/08/2008,Beijing Olympics 2008,"Beijing, China",15/1/1987,21.60,"Gerar Ber, Ethiopia",ETH,ETH,157.48,49.89
+4,Deriba Merga,Deriba,Merga,2:10:21,42.195,24/08/2008,Beijing Olympics 2008,"Beijing, China",26/10/1980,27.82,"Oromia, Ethiopia",ETH,ETH,,
+5,Martin Lel,Martin,Lel,2:10:24,42.195,24/08/2008,Beijing Olympics 2008,"Beijing, China",29/10/1978,29.82,"Kapsabet, Kenya",KEN,KEN,170.18,53.97
+6,Viktor Rothlin,Victor ,Rothlin,2:10:35,42.195,24/08/2008,Beijing Olympics 2008,"Beijing, China",14/10/1974,28.52,"Kerns, Switzerland",SUI,SUI,172.72,59.87
+7,Gashaw Asfaw,Gashaw,Asfaw,2:10:52,42.195,24/08/2008,Beijing Olympics 2008,"Beijing, China",26/9/1978,29.91,Ethiopia,ETH,ETH,165.10,50.80
+8,Yared Asmerom,Yared,Asmerom,2:11:11,42.195,24/08/2008,Beijing Olympics 2008,"Beijing, China",04/02/1980,28.55,"Asmara, Eritrea",ERI,ERI,170.18,58.05
+9,Dathan Ritzenhein,Dathan,Ritzenhein,2:11:59,42.195,24/08/2008,Beijing Olympics 2008,"Beijing, China",30/12/1982,25.65,"Grand Rapids, USA",USA,USA,172.72,54.88
+10,Ryan Hall,Ryan,Hall,2:12:33,42.195,24/08/2008,Beijing Olympics 2008,"Beijing, China",10/12/1982,25.86,"Big Bear, USA",USA,USA,177.80,60.78
+1,Stefano Baldini,Stefano,Baldini,2:10:55,42.195,24/08/2004,Athens Olympics 2004,"Athens, Greece",25/05/1971,33.25,Castelnovo di Sotto,ITA,ITA,175.26,62.14
+2,Mebrahtom Keflezighi,Mebrahtom,Keflezighi,2:11:29,42.195,24/08/2004,Athens Olympics 2005,"Athens, Greece",05/05/1975,29.3,Asmara,ERI,USA,165.1,57.15
+3,Vanderlei De Lima,Vanderlei,De Lima,2:12:11,42.195,24/08/2004,Athens Olympics 2006,"Athens, Greece",04/07/1969,35.14,Cruzeiro do Oeste,BRA,BRA,167.64,53.97
+4,Jon Brown,Jon,Brown,2:12:26,42.195,24/08/2004,Athens Olympics 2007,"Athens, Greece",27/02/1971,33.48,Bridgend,GBR,GBR,,
+5,Shigeru Aburaya,Shigeru,Aburaya,2:13:11,42.195,24/08/2004,Athens Olympics 2008,"Athens, Greece",8/02/1977,27.54,Nagato,JPN,JPN,162,50.8
+6,Toshinari Suwa,Toshinari,Suwa,2:13:24,42.195,24/08/2004,Athens Olympics 2009,"Athens, Greece",29/01/1977,27.56,Isesaki,JPN,JPN,177.8,58.05
+7,Erick Wainaina,Erick,Wainaina,2:13:30,42.195,24/08/2004,Athens Olympics 2010,"Athens, Greece",19/12/1973,30.68,Nyahururu,KEN,KEN,,
+8,Alberto Chaica,Alberto,Chaica,2:14:17,42.195,24/08/2004,Athens Olympics 2011,"Athens, Greece",17/09/1973,30.93,Caparica,POR,POR,,
+9,Alberico Di Cecco,Alberico,Di Cecco,2:14:34,42.195,24/08/2004,Athens Olympics 2012,"Athens, Greece",19/04/1974,30.34,Guardiagrele,ITA,ITA,172.72,
+10,Paul Tergat,Paul,Tergat,2:14:45,42.195,24/08/2004,Athens Olympics 2013,"Athens, Greece",17/06/1969,35.18,Riwo,KEN,KEN,182,62.14
+1,Gezahegne Abera,Gezahegne,Abera,2:10:11,42.195,01/10/2000,Sydney Olympics 2000,"Sydney, Australia",23/04/1978,22.52,Etya,ETH,ETH,,58.05
+2,Erick Wainaina,Erick,Wainaina,2:10:31,42.195,01/10/2000,Sydney Olympics 2000,"Sydney, Australia",19/12/1973,26.78,Nyahururu,KEN,KEN,175,58.96
+3,Tesfaye Tola,Tesfaye,Tola,2:11:10,42.195,01/10/2000,Sydney Olympics 2000,"Sydney, Australia",19/10/1974,25.95,,ETH,ETH,,
+4,Jon Brown,Jon,Brown,2:11:17,42.195,01/10/2000,Sydney Olympics 2000,"Sydney, Australia",27/02/1971,26.59,Bridgend,GBR,GBR,,
+5,Giacomo Leone,Giacomo,Leone,2:12:14,42.195,01/10/2000,Sydney Olympics 2000,"Sydney, Australia",10/4/1971,29.47,Francavilla Fontana,ITA,ITA,170.18,
+6,Martin Fiz,Martin,Fiz,2:13:06,42.195,01/10/2000,Sydney Olympics 2000,"Sydney, Australia",3/3/1963,37.58,Vitoria-Gasteiz,ESP,ESP,169,55
+7,Abdelkader El Mouaziz,Abdelkader,El Mouaziz,2:13:49,42.195,01/10/2000,Sydney Olympics 2000,"Sydney, Australia",1/1/1969,31.74,Settat,MAR,MAR,,
+8,Mohamed Ouaadi,Mohamed,Ouaadi,2:14:04,42.195,01/10/2000,Sydney Olympics 2000,"Sydney, Australia",1/1/1969,31.74,Tiznit,MAR,FRA,172.72,
+9,Tendai Chimusasa,Tendai,Chimusasa,2:14:19,42.195,01/10/2000,Sydney Olympics 2000,"Sydney, Australia",28/01/1971,29.67,Nyanga,ZIM,ZIM,,
+10,Steve Moneghetti,Steve,Moneghetti,2:14:50,42.195,01/10/2000,Sydney Olympics 2000,"Sydney, Australia",26/09/1962,38.68,Ballarat,AUS,AUS,175.26,59.87
+1,Josia Thugwane,Josia,Thugwane,2:12:36,42.195,4/8/1996,Atlanta Olympics 1996,"Atlanta, USA",14/04/1971,25.32,Bethal,RSA,RSA,158,45
+2,Bong Ju Lee,Bong Ju,Lee,2:12:39,42.195,4/8/1996,Atlanta Olympics 1997,"Atlanta, USA",11/10/1970,25.81,Seoul,KOR,KOR,167,56
+3,Erick Wainaina,Erick,Wainaina,2:12:44,42.195,4/8/1996,Atlanta Olympics 1998,"Atlanta, USA",19/12/1973,22.62,Nyahururu,KEN,KEN,175,58.96
+4,Martin Fiz,Martin,Fiz,2:13:20,42.195,4/8/1996,Atlanta Olympics 1999,"Atlanta, USA",3/3/1963,33.42,Vitoria-Gasteiz,ESP,ESP,169,55
+5,Richard Nerurkar,Richard,Nerurkar,2:13:39,42.195,4/8/1996,Atlanta Olympics 2000,"Atlanta, USA",6/1/1964,35.57,Wolverhampton,GBR,GBR,177.88,63.95
+6,German Silva,German,Silva,2:14:29,42.195,4/8/1996,Atlanta Olympics 2001,"Atlanta, USA",9/1/1968,28.56,Puebla,MEX,MEX,,
+7,Steve Moneghetti,Steve,Moneghetti,2:14:35,42.195,4/8/1996,Atlanta Olympics 2002,"Atlanta, USA",26/09/1962,33.85,Ballarat,AUS,AUS,175.26,59.87
+8,Benjamin Paredes,Benjamin,Paredes,2:14:55,42.195,4/8/1996,Atlanta Olympics 2003,"Atlanta, USA",30/04/1962,34.26,Ecatepec de Morelos,MEX,MEX,,
+9,Danilo Goffi,Danilo,Goffi,2:15:08,42.195,4/8/1996,Atlanta Olympics 2004,"Atlanta, USA",3/12/1972,23.66,Legano,ITA,ITA,172.2,52.16
+10,Luiz Dos Santos,Luiz,Dos Santos,2:15:55,42.195,4/8/1996,Atlanta Olympics 2005,"Atlanta, USA",6/11/1964,31.74,Rio de Janeiro,BRA,BRA,174,58
+1,Lemi Berhanu Hayle,Lemi Berhanu,Hayle,2:12:45,42.195,18/4/2016,Boston Marathon 2016,"Boston, USA",13/01/1994,22.26,,ETH,ETH,167.64,53.07
+2,Desisa Lelisa,Desisa,Lelisa,2:13:32,42.195,18/4/2016,Boston Marathon 2016,"Boston, USA",14/01/1990,29.24,Shewa,ETH,ETH,165,54.88
+3,Tsegay Yemane Adhane,Tsegay,Yemane Adhane,2:14:02,42.195,18/4/2016,Boston Marathon 2016,"Boston, USA",8/4/1985,31.02,,ETH,ETH,,
+4,Korir Wesley,Korir,Wesley,2:14:05,42.195,18/4/2016,Boston Marathon 2016,"Boston, USA",15/11/1982,33.42,Kitale,KEN,KEN,177.8,53.97
+5,Lonyagata Paul,Lonyagata,Paul,2:15:45,42.195,18/4/2016,Boston Marathon 2016,"Boston, USA",12/12/1992,23.34,,KEN,KEN,,
+6,Kitwara Sammy,Kitwara,Sammy,2:16:43,42.195,18/4/2016,Boston Marathon 2016,"Boston, USA",26/11/1986,29.39,,KEN,KEN,,
+7,Chebogu Stephen,Chebogu,Stephen,2:16:52,42.195,18/4/2016,Boston Marathon 2016,"Boston, USA",,,,KEN,KEN,,
+8,Nageeye Abdi,Nageeye,Abdi,2:18:05,42.195,18/4/2016,Boston Marathon 2016,"Boston, USA",2/3/1989,27.12,Mogadishu,SOM,NED,165,53.97
+9,Feleke Getu,Feleke,Getu,2:18:46,42.195,18/4/2016,Boston Marathon 2016,"Boston, USA",28/11/1986,29.38,Aleltu,ETH,ETH,,
+10,Hine Zachary,Hine,Zachary,2:21:37,42.195,18/4/2016,Boston Marathon 2016,"Boston, USA",,,,USA,USA,,
+1,Geoffrey Kirui,Geoffrey,Kirui,2:09:37,42.195,17/04/2017,Boston Marathon 2017,"Boston, USA",16/02/1993,24.16,Nyeri,KEN,KEN,157.48,50
+2,Galen Rupp,Galen,Rupp,2:09:58,42.195,17/04/2017,Boston Marathon 2017,"Boston, USA",8/5/1986,30.94,Portland,USA,USA,180.34,60.78
+3,Suguru Osako,Suguru,Osako,2:10:28,42.195,17/04/2017,Boston Marathon 2017,"Boston, USA",23/05/1991,25.9,Tokyo,JPN,JPN,170,52
+4,Shadrack Biwott,Shadrack,Biwott,2:12:08,42.195,17/04/2017,Boston Marathon 2017,"Boston, USA",15/02/1985,32.16,,KEN,USA,175.26,56.69
+5,Wilson Chebet,Wilson,Chebet,2:12:35,42.195,17/04/2017,Boston Marathon 2017,"Boston, USA",12/7/1985,35.34,,KEN,KEN,,
+6,Abdi Abdirahman,Abdi,Abdirahman,2:12:45,42.195,17/04/2017,Boston Marathon 2017,"Boston, USA",1/1/1977,40.29,Hargeisa,SOM,USA,180.03,60.78
+7,Augustus K. Maiyo,Augustus K.,Maiyo,2:13:16,42.195,17/04/2017,Boston Marathon 2017,"Boston, USA",10/5/1983,33.93,,KEN,USA,203.2,58.96
+8,Dino Sefir,Dino,Sefir,2:14:26,42.195,17/04/2017,Boston Marathon 2017,"Boston, USA",28/05/1988,28.88,,ETH,ETH,177.8,60.78
+9,Luke Puskedra,Luke,Puskedra,2:14:45,42.195,17/04/2017,Boston Marathon 2017,"Boston, USA",8/2/1990,27.18,Ogden,USA,USA,193.04,75.74
+10,Jared Ward,Jared,Ward,2:15:28,42.195,17/04/2017,Boston Marathon 2017,"Boston, USA",9/9/1988,28.6,Layton,USA,USA,175,61
+1,Yuki Kawauchi,Yuki,Kawauchi,2:15:58,42.195,16/04/2018,Boston Marathon 2018,"Boston, USA",5/3/1987,31.11,Tokyo,JPN,JPN,175,62
+2,Geoffrey Kirui,Geoffrey,Kirui,2:18:23,42.195,16/04/2018,Boston Marathon 2018,"Boston, USA",16/02/1993,24.41,Nyeri,KEN,KEN,157.48,50
+3,Shadrack Biwott,Shadrack,Biwott,2:18:35,42.195,16/04/2018,Boston Marathon 2018,"Boston, USA",15/02/1985,33.16,,KEN,USA,175,56.69
+4,Tyler Pennel,Tyler,Pennel,2:18:57,42.195,16/04/2018,Boston Marathon 2018,"Boston, USA",21/12/1987,30.31,Golden,USA,USA,180,63.5
+5,Andrew Bumbalough,Andrew,Bumbalough,2:19:52,42.195,16/04/2018,Boston Marathon 2018,"Boston, USA",14/03/1987,31.09,Brentwood,USA,USA,,
+6,Scott Smith,Scott,Smith,2:21:47,42.195,16/04/2018,Boston Marathon 2018,"Boston, USA",13/07/1986,31.75,,USA,USA,,
+7,Abdi Nageeye,Abdi,Nageeye,2:23:16,42.195,16/04/2018,Boston Marathon 2018,"Boston, USA",2/3/1989,29.12,Mogadishu,SOM,NED,165,53.97
+8,Elkanah Kibet,Elkanah,Kibet,2:23:37,42.195,16/04/2018,Boston Marathon 2018,"Boston, USA",2/6/1983,35.18,,KEN,USA,,
+9,Reid Coolsaet,Reid,Coolsaet,2:25:02,42.195,16/04/2018,Boston Marathon 2018,"Boston, USA",29/07/1979,38.71,Hamilton,CAN,CAN,175.26,62.14
+10,Daniel Vassallo,Daniel,Vassallo,2:27:50,42.195,16/04/2018,Boston Marathon 2018,"Boston, USA",28/04/1985,32.96,,USA,USA,,
+1,Lawrence Cherono,Lawrence,Cherono,2:07:57,42.195,15/04/2019,Boston Marathon 2019,"Boston, USA",7/8/1988,30.68,,KEN,KEN,,
+2,Lelisa Desisa,Lelisa,Desisa,2:07:59,42.195,15/04/2019,Boston Marathon 2019,"Boston, USA",14/01/1990,29.24,Shewa,ETH,ETH,165,54.88
+3,Kenneth Kipkemoi,Kenneth,Kipkemoi,2:08:07,42.195,15/04/2019,Boston Marathon 2019,"Boston, USA",8/2/1984,35.18,,KEN,KEN,,
+4,Felix Kandie,Felix,Kandie,2:08:54,42.195,15/04/2019,Boston Marathon 2019,"Boston, USA",10/4/1987,31.52,,KEN,KEN,,
+5,Geoffrey Kirui,Geoffrey,Kirui,2:08:55,42.195,15/04/2019,Boston Marathon 2019,"Boston, USA",16/02/1993,26.15,Nyeri,KEN,KEN,157.48,50
+6,Philemon Rono,Philemon,Rono,2:08:57,42.195,15/04/2019,Boston Marathon 2019,"Boston, USA",8/2/1991,28.18,,KEN,KEN,161,
+7,Scott Fauble,Scott,Fauble,2:09:09,42.195,15/04/2019,Boston Marathon 2019,"Boston, USA",5/11/1991,27.44,,USA,USA,,
+8,Jared Ward,Jared,Ward,2:09:25,42.195,15/04/2019,Boston Marathon 2019,"Boston, USA",9/9/1988,30.59,Layton,USA,USA,175,61
+9,Festus Talam,Festus,Talam,2:09:25,42.195,15/04/2019,Boston Marathon 2019,"Boston, USA",20/10/1994,24.48,,KEN,KEN,,
+10,Benson Kipruto,Benson,Kipruto,2:09:53,42.195,15/04/2019,Boston Marathon 2019,"Boston, USA",,,,KEN,KEN,,
+1,Geoffrey Kamworor,Geoffrey,Kamworor,2:08:13,42.195,3/11/2019,NYC Marathon 2019,"NYC, USA",22/11/1992,26.94,Nyeri,KEN,KEN,172,58.05
+2,Albert Korir,Albert,Korir,2:08:36,42.195,3/11/2019,NYC Marathon 2019,"NYC, USA",2/3/1994,25.67,,KEN,KEN,,
+3,Girma Bekele Gebre,Girma Bekele,Gebre,2:08:36,42.195,3/11/2019,NYC Marathon 2019,"NYC, USA",,,,ETH,ETH,,
+4,Tamirat Tola,Tamirat,Tola,2:09:20,42.195,3/11/2019,NYC Marathon 2019,"NYC, USA",11/8/1991,28.22,,ETH,ETH,180,58.96
+5,Shura Kitata,Shura,Kitata,2:10:39,42.195,3/11/2019,NYC Marathon 2019,"NYC, USA",9/6/1996,23.4,,ETH,ETH,175,
+6,Jared Ward,Jared,Ward,2:10:45,42.195,3/11/2019,NYC Marathon 2019,"NYC, USA",9/9/1988,23.14,Layton,USA,USA,175,61.23
+7,Stephen Sambu,Stephen,Sambu,2:11:11,42.195,3/11/2019,NYC Marathon 2019,"NYC, USA",7/7/1988,31.32,,KEN,KEN,167.64,
+8,Yoshiki Takenouchi,Yoshiki,Takenouchi,2:11:18,42.195,3/11/2019,NYC Marathon 2019,"NYC, USA",25/05/1992,27.44,Osaka,JPN,JPN,176,
+9,Abdi Abdirahman,Abdi,Abdirahman,2:11:34,42.195,3/11/2019,NYC Marathon 2019,"NYC, USA",1/1/1977,42.83,Hargeisa,SOM,USA,178,61
+10,Connor McMillan,Connor,McMillan,2:12:07,42.195,3/11/2019,NYC Marathon 2019,"NYC, USA",,,,USA,USA,,
+1,Lelisa Desisa,Lelisa,Desisa,2:05:59,42.195,4/11/2018,NYC Marathon 2018,"NYC, USA",14/01/1990,28.8,Shewa,ETH,ETH,165,54.88
+2,Shura Kitata,Shura,Kitata,2:06:01,42.195,4/11/2018,NYC Marathon 2018,"NYC, USA",9/6/1996,22.4,,ETH,ETH,175,
+3,Geoffrey Kamworor,Geoffrey,Kamworor,2:06:28,42.195,4/11/2018,NYC Marathon 2018,"NYC, USA",22/11/1992,25.38,Nyeri,KEN,KEN,172,58.05
+4,Tamirat Tola,Tamirat,Tola,2:08:30,42.195,4/11/2018,NYC Marathon 2018,"NYC, USA",11/8/1991,27.23,,ETH,ETH,180,58.96
+5,Daniel Wanjiru,Daniel,Wanjiru,2:10:21,42.195,4/11/2018,NYC Marathon 2018,"NYC, USA",26/05/1992,26.44,Embu County,KEN,KEN,175.26,
+6,Jared Ward,Jared,Ward,2:12:24,42.195,4/11/2018,NYC Marathon 2018,"NYC, USA",9/11/1988,29.98,Layton,USA,USA,175,61.23
+7,Scott Fauble,Scott,Fauble,2:12:28,42.195,4/11/2018,NYC Marathon 2018,"NYC, USA",5/11/1991,26.99,,USA,USA,,
+8,Festus Talam,Festus,Talam,2:12:40,42.195,4/11/2018,NYC Marathon 2018,"NYC, USA",20/11/1994,23.95,,KEN,KEN,,
+9,Shadrack Biwott,Shadrack,Biwott,2:12:52,42.195,4/11/2018,NYC Marathon 2018,"NYC, USA",15/02/1985,33.71,,KEN,USA,175.26,56.69
+10,Chris Derrick,Chris,Derrick,2:13:08,42.195,4/11/2018,NYC Marathon 2018,"NYC, USA",17/11/1990,27.96,Albany,USA,USA,188,73
+1,Geoffrey Kamworor,Geoffrey,Kamworor,2:10:53,42.195,5/11/2017,NYC Marathon 2017,"NYC, USA",22/11/1992,24.95,Nyeri,KEN,KEN,172,58.05
+2,Wilson Kipsang,Wilson,Kipsang,2:10:56,42.195,5/11/2017,NYC Marathon 2017,"NYC, USA",15/03/1982,35.64,Keiyo District,KEN,KEN,182,62.14
+3,Lelisa Desisa,Lelisa,Desisa,2:11:32,42.195,5/11/2017,NYC Marathon 2017,"NYC, USA",14/01/1990,27.8,Shewa,ETH,ETH,165,54.88
+4,Lemi Berhanu,Lemi,Berhanu,2:11:52,42.195,5/11/2017,NYC Marathon 2017,"NYC, USA",13/09/1994,23.14,,ETH,ETH,167.64,53.07
+5,Tadesse Abraham,Tadesse,Abraham,2:12:01,42.195,5/11/2017,NYC Marathon 2017,"NYC, USA",12/8/1982,32.23,,ERI,SUI,177.8,60.78
+6,Michel Butter,Michel,Butter,2:12:39,42.195,5/11/2017,NYC Marathon 2017,"NYC, USA",5/11/1985,32,Beverwijk,NED,NED,175.26,60.78
+7,Abdi Abdirahman,Abdi,Abdirahman,2:12:48,42.195,5/11/2017,NYC Marathon 2017,"NYC, USA",1/1/1977,40.84,Hargeisa,SOM,USA,178,61
+8,Koen Naert,Koen,Naert,2:13:21,42.195,5/11/2017,NYC Marathon 2017,"NYC, USA",3/9/1989,28.17,Roeselare,BEL,BEL,182.88,66.22
+9,Fikadu Girma Teferi,Fikadu,Girma Teferi,2:13:58,42.195,5/11/2017,NYC Marathon 2017,"NYC, USA",7/10/1993,24.07,,ETH,ETH,,
+10,Shadrack Biwott,Shadrack,Biwott,2:14:57,42.195,5/11/2017,NYC Marathon 2017,"NYC, USA",15/02/1985,32.72,,KEN,USA,175.26,56.69
+1,Eliud Kipchoge,Eliud,Kipchoge,2:03:32,42.195,24/09/2017,BMW Berlin Marathon 2017,"Berlin, Germany",5/11/1984,33.37,Nandi County,KEN,KEN,167.64,52.16
+2,Guye Adola,Guye,Adola,2:03:46,42.195,24/09/2017,BMW Berlin Marathon 2017,"Berlin, Germany",20/10/1990,26.92,Adola,ETH,ETH,180.34,59.87
+3,Mosinet Geremew,Mosinet,Geremew,2:06:09,42.195,24/09/2017,BMW Berlin Marathon 2017,"Berlin, Germany",12/2/1992,25.61,,ETH,ETH,174,57
+4,Felix Kandie,Felix,Kandie,2:06:13,42.195,24/09/2017,BMW Berlin Marathon 2017,"Berlin, Germany",10/4/1987,30.45,,KEN,KEN,172.72,
+5,Vincent Kipruto,Vincent,Kipruto,2:06:14,42.195,24/09/2017,BMW Berlin Marathon 2017,"Berlin, Germany",16/09/1992,25.02,,KEN,KEN,167,58
+6,Yuta Shitara,Yuta,Shitara,2:09:03,42.195,24/09/2017,BMW Berlin Marathon 2017,"Berlin, Germany",18/12/1991,25.76,Saitama,JPN,JPN,175.26,48.39
+7,Hiroaki Sano,Hiroaki,Sano,2:11:24,42.195,24/09/2017,BMW Berlin Marathon 2017,"Berlin, Germany",27/02/1988,29.57,Saitama,JPN,JPN,175.26,52.16
+8,Ryan Vail,Ryan,Vail,2:12:40,42.195,24/09/2017,BMW Berlin Marathon 2017,"Berlin, Germany",19/03/1986,31.51,,USA,USA,,
+9,Liam Adams,Liam,Adams,2:12:52,42.195,24/09/2017,BMW Berlin Marathon 2017,"Berlin, Germany",04/09/10986,31.05,Melbourne,AUS,AUS,177.8,63.95
+10,Jonathan Mellor,Jonathan,Mellor,2:12:57,42.195,24/09/2017,BMW Berlin Marathon 2017,"Berlin, Germany",27/12/1986,30.74,Birkenhead,GBR,GBR,,
+1,Eliud Kipchoge,Eliud,Kipchoge,2:01:39,42.195,16/09/2018,BMW Berlin Marathon 2018,"Berlin, Germany",5/11/1984,33.86,Nandi County,KEN,KEN,167.64,52.16
+2,Amos Kipruto,Amos,Kipruto,2:06:23,42.195,16/09/2018,BMW Berlin Marathon 2018,"Berlin, Germany",16/09/1992,25.99,,KEN,KEN,167,58
+3,Wilson Kipsang,Wilson,Kipsang,2:06:48,42.195,16/09/2018,BMW Berlin Marathon 2018,"Berlin, Germany",15/03/1982,36.5,Keiyo District,KEN,KEN,182.88,62.14
+4,Shogo Nakamura,Shogo,Nakamura,2:08:16,42.195,16/09/2018,BMW Berlin Marathon 2018,"Berlin, Germany",16/09/1992,25.99,,JPN,JPN,,
+5,Zersenay Tadese,Zersenay,Tadese,2:08:46,42.195,16/09/2018,BMW Berlin Marathon 2018,"Berlin, Germany",8/2/1982,36.6,Adi Bana,ERI,ERI,160.02,53.97
+6,Yuki Sato,Yuki,Sato,2:09:18,42.195,16/09/2018,BMW Berlin Marathon 2018,"Berlin, Germany",26/11/1986,35.8,Shimiu,JPN,JPN,177.8,59.87
+7,Okubay Tsegay,Okubay,Tsegay,2:09:56,42.195,16/09/2018,BMW Berlin Marathon 2018,"Berlin, Germany",1/1/1986,32.7,,ERI,ERI,,
+8,Daisuke Uekado,Daisuke,Uekado,2:11:07,42.195,16/09/2018,BMW Berlin Marathon 2018,"Berlin, Germany",11/12/1993,24.76,,JPN,JPN,175.26,58.96
+9,Wily Canchanya,Wily,Canchanya,2:12:57,42.195,16/09/2018,BMW Berlin Marathon 2018,"Berlin, Germany",28/06/1991,27.21,,PER,PER,,
+10,Bart Nunen,Bart,Nunen,2:13:09,42.195,16/09/2018,BMW Berlin Marathon 2018,"Berlin, Germany",24/09/1995,22.97,,NED,NED,180.34,
+1,Eliud Kipchoge,Eliud,Kipchoge,2:02:37,42.195,28/04/2019,Virgin Money London Marathon 2019,"London, GBR",5/11/1984,34.47,Nandi County,KEN,KEN,167.64,52.16
+2,Mosinet Geremew,Mosinet,Geremew,2:02:55,42.195,28/04/2019,Virgin Money London Marathon 2019,"London, GBR",12/2/1992,27.2,,ETH,ETH,174,57
+3,Mule Wasihun,Mule,Wasihun,2:03:16,42.195,28/04/2019,Virgin Money London Marathon 2019,"London, GBR",20/10/1993,25.51,,ETH,ETH,,
+4,Tola Shura Kitata,Tola Shura,Kitata,2:05:01,42.195,28/04/2019,Virgin Money London Marathon 2019,"London, GBR",9/6/1996,22.88,,ETH,ETH,175.26,
+5,Mo Farah,Mo,Farah,2:05:39,42.195,28/04/2019,Virgin Money London Marathon 2019,"London, GBR",23/03/1983,36.09,Mogadishu,SOM,GBR,175.26,58.05
+6,Tamirat Tola,Tamirat,Tola,2:06:57,42.195,28/04/2019,Virgin Money London Marathon 2019,"London, GBR",11/8/1991,27.71,,ETH,ETH,180.34,58.96
+7,Abdi Bashi,Abdi,Bashi,2:07:03,42.195,28/04/2019,Virgin Money London Marathon 2019,"London, GBR",10/2/1989,30.2,Mogadishu,SOM,BEL,177.8,55.79
+8,Leul Gebrselassie,Leul,Gebrselassie,2:07:15,42.195,28/04/2019,Virgin Money London Marathon 2019,"London, GBR",18/04/1973,46.02,Assela,ETH,ETH,164,54
+9,Yassine Rachik,Yassine,Rachik,2:08:05,42.195,28/04/2019,Virgin Money London Marathon 2019,"London, GBR",11/6/1993,25.47,Casablanca,MAR,ITA,172.72,55.79
+10,Callum Hawkins,Callum,Hawkins,2:08:14,42.195,28/04/2019,Virgin Money London Marathon 2019,"London, GBR",22/06/1992,26.84,Elderslie,GBR,GBR,179,62.14
+1,Shura Kitata,Shura,Kitata,2:05:41,42.195,4/10/20,Virgin Money London Marathon 2020,"London, GBR",9/6/1996,24.32,,ETH,ETH,175.26,
+2,Vincent Kipchumba,Vincent,Kipchumba,2:05:42,42.195,4/10/20,Virgin Money London Marathon 2020,"London, GBR",3/8/1990,30.17,,KEN,KEN,,
+3,Sisay Lemma,Sisay,Lemma,2:05:45,42.195,4/10/20,Virgin Money London Marathon 2020,"London, GBR",12/12/1990,29.81,,ETH,ETH,,
+4,Mosinet Geremew,Mosinet,Geremew,2:05:04,42.195,4/10/20,Virgin Money London Marathon 2020,"London, GBR",12/2/1992,28.64,,ETH,ETH,174,57
+5,Mule Wasihun,Mule,Wasihun,2:06:08,42.195,4/10/20,Virgin Money London Marathon 2020,"London, GBR",20/10/1993,26.95,,ETH,ETH,,
+6,Tamirat Tola,Tamirat,Tola,2:06:41,42.195,4/10/20,Virgin Money London Marathon 2020,"London, GBR",11/8/1991,29.14,,ETH,ETH,180.34,58.96
+7,Benson Kipruto,Benson,Kipruto,2:06:42,42.195,4/10/20,Virgin Money London Marathon 2020,"London, GBR",17/03/1991,29.55,,KEN,KEN,,
+8,Eliud Kipchoge,Eliud,Kipchoge,2:06:49,42.195,4/10/20,Virgin Money London Marathon 2020,"London, GBR",5/11/1984,35.91,Nandi County,KEN,KEN,167.64,52.16
+9,Sondre Nordstad Moen,Sondre,Nordstad Moen,2:09:01,42.195,4/10/20,Virgin Money London Marathon 2020,"London, GBR",12/1/1991,29.72,Trondheim,NOR,NOR,177.8,62.1422
+10,Marius Kipserem,Marius,Kipserem,2:09:25,42.195,4/10/20,Virgin Money London Marathon 2020,"London, GBR",17/05/1988,32.38,,KEN,KEN,,
+1,Lawrence Cherono,Lawrence,Cherono,2:04:06,42.195,21/10/2018,TCS Amsterdam Marathon 2018,"Amsterdam, NED",7/8/1988,30.28,Eldoret,KEN,KEN,,
+2,Mule Wasihun,Mule,Wasihun,2:04:37,42.195,21/10/2018,TCS Amsterdam Marathon 2018,"Amsterdam, NED",20/10/1993,25,,ETH,ETH,,
+3,Solomon Deksisa,Solomon,Deksisa,2:04:40,42.195,21/10/2018,TCS Amsterdam Marathon 2018,"Amsterdam, NED",11/3/1994,24.61,,ETH,ETH,,
+4,Gideon Kipketer,Gideon,Kipketer,2:06:15,42.195,21/10/2018,TCS Amsterdam Marathon 2018,"Amsterdam, NED",10/11/1992,25.94,,KEN,KEN,,
+5,Kaan Ozbilen,Kaan,Ozbilen,2:06:24,42.195,21/10/2018,TCS Amsterdam Marathon 2018,"Amsterdam, NED",15/01/1986,32.76,,KEN,TUR,177.8,57.15
+6,Laban Korir,Laban,Korir,2:06:33,42.195,21/10/2018,TCS Amsterdam Marathon 2018,"Amsterdam, NED",30/06/1985,33.3,Uasin Gishu County,KEN,KEN,160.02,49.89
+7,Tadu Abate,Tadu,Abate,2:06:33,42.195,21/10/2018,TCS Amsterdam Marathon 2018,"Amsterdam, NED",,,,ETH,ETH,,
+8,Jonathan Korir,Jonathan,Korir,2:06:47,42.195,21/10/2018,TCS Amsterdam Marathon 2018,"Amsterdam, NED",29/12/1982,35.81,,KEN,KEN,,
+9,Hillary Kipsambu,Hillary,Kipsambu,2:07:20,42.195,21/10/2018,TCS Amsterdam Marathon 2018,"Amsterdam, NED",4/2/1985,33.7,,KEN,KEN,,
+10,Yenew Alamirew,Yenew,Alamirew,2:10:35,42.195,21/10/2018,TCS Amsterdam Marathon 2018,"Amsterdam, NED",27/05/1990,28.4,,ETH,ETH,177.8,57.15
+1,Vincent Kipchumba,Vincent,Kipchumba,2:05:09,42.195,20/10/2019,TCS Amsterdam Marathon 2019,"Amsterdam, NED",3/8/1990,29.21,,KEN,KEN,,
+2,Solomon Deksisa,Solomon,Deksisa,2:05:16,42.195,20/10/2019,TCS Amsterdam Marathon 2019,"Amsterdam, NED",11/3/1994,25.6,,ETH,ETH,,
+3,Elisha Rotich,Elisha,Rotich,2:05:18,42.195,20/10/2019,TCS Amsterdam Marathon 2019,"Amsterdam, NED",12/4/1990,29.52,,KEN,KEN,,
+4,Betesfa Getahun,Betesfa,Getahun,2:05:28,42.195,20/10/2019,TCS Amsterdam Marathon 2019,"Amsterdam, NED",25/09/1998,21.06,,ETH,ETH,,
+5,Fentahun Hunegnaw,Fentahun,Hunegnaw,2:06:04,42.195,20/10/2019,TCS Amsterdam Marathon 2019,"Amsterdam, NED",,,,ETH,ETH,,
+6,Tadu Abate,Tadu,Abate,2:06:13,42.195,20/10/2019,TCS Amsterdam Marathon 2019,"Amsterdam, NED",11/9/1997,22.1,,ETH,ETH,,
+7,Morris Gachaga,Morris,Gachaga,2:06:24,42.195,20/10/2019,TCS Amsterdam Marathon 2019,"Amsterdam, NED",7/4/1995,24.53,,KEN,KEN,155,54
+8,Daniel Kemboi,Daniel,Kemboi,2:06:31,42.195,20/10/2019,TCS Amsterdam Marathon 2019,"Amsterdam, NED",1/1/1993,26.79,,KEN,KEN,,
+9,Abdi Nageeye,Abdi,Nageeye,2:07:39,42.195,20/10/2019,TCS Amsterdam Marathon 2019,"Amsterdam, NED",2/3/1989,30.63,Mogadishu,SOM,NED,165.1,53.97
+10,Abrar Osman,Abrar,Osman,2:07:46,42.195,20/10/2019,TCS Amsterdam Marathon 2019,"Amsterdam, NED",1/1/1994,25.79,,ERI,ERI,167.64,58.05
+1,Mo Farah,Mo,Farah,2:05:11,42.195,7/10/2018,Chicago Marathon 2018,"Chicago, USA",23/03/1983,35.54,Mogadishu,SOM,GBR,175.26,58.05
+2,Mosinet Geremew,Mosinet,Geremew,2:05:24,42.195,7/10/2018,Chicago Marathon 2018,"Chicago, USA",12/2/1992,26.65,Addis Abeba,ETH,ETH,174,57
+3,Suguru Osako,Suguru,Osako,2:05:50,42.195,7/10/2018,Chicago Marathon 2018,"Chicago, USA",23/05/1991,27.37,Tokyo,JPN,JPN,170,52
+4,Kenneth Kipkemoi,Kenneth,Kipkemoi,2:05:57,42.195,7/10/2018,Chicago Marathon 2018,"Chicago, USA",2/8/1984,34.17,Beringen,KEN,KEN,,
+5,Galen Rupp,Galen,Rupp,2:06:21,42.195,7/10/2018,Chicago Marathon 2018,"Chicago, USA",8/5/1986,32.41,Portland,USA,USA,180.34,60.78
+6,Geoffrey Kirui,Geoffrey,Kirui,2:06:45,42.195,7/10/2018,Chicago Marathon 2018,"Chicago, USA",16/02/1993,25.63,Nyeri,KEN,KEN,158,50
+7,Abel Kirui,Abel,Kirui,2:07:52,42.195,7/10/2018,Chicago Marathon 2018,"Chicago, USA",4/6/1982,36.34,Bomet,KEN,KEN,175.26,58.05
+8,Taku Fujimoto,Taku,Fujimoto,2:07:57,42.195,7/10/2018,Chicago Marathon 2018,"Chicago, USA",11/9/1989,29.07,Osaka,JPN,JPN,165,53.97
+9,Bedan Karoki,Bedan,Karoki,2:07:59,42.195,7/10/2018,Chicago Marathon 2018,"Chicago, USA",21/08/1990,38.12,Nyahururu County,KEN,KEN,167.64,53.97
+10,Birhanu Legese,Birhanu,Legese,2:08:42,42.195,7/10/2018,Chicago Marathon 2018,"Chicago, USA",11/9/1994,23.82,Waliso,ETH,ETH,168,
+1,Lawrence Cherono,Lawrence,Cherono,2:05:45,42.195,13/10/2019,Bank of America Chicago Marathon 2019,"Chicago, USA",7/8/1988,31.18,Eldoret,KEN,KEN,,
+2,Dejene Debela,Dejene,Debela,2:05:46,42.195,13/10/2019,Bank of America Chicago Marathon 2019,"Chicago, USA",9/1/1995,24.11,,ETH,ETH,,
+3,Asefa Mengstu,Asefa,Mengstu,2:05:48,42.195,13/10/2019,Bank of America Chicago Marathon 2019,"Chicago, USA",22/1/1988,31.72,,ETH,ETH,,
+4,Bedan Karoki,Bedan,Karoki,2:05:53,42.195,13/10/2019,Bank of America Chicago Marathon 2019,"Chicago, USA",21/08/1990,29.14,Nyandarua,KEN,KEN,167.64,53.97
+5,Bashir Abdi,Bashir,Abdi,2:06:14,42.195,13/10/2019,Bank of America Chicago Marathon 2019,"Chicago, USA",10/2/1989,30.66,Mogadishu,SOM,BEL,177.8,55.79
+6,Seifu Tura,Seifu,Tura,2:08:35,42.195,13/10/2019,Bank of America Chicago Marathon 2019,"Chicago, USA",,,,ETH,ETH,,
+7,Dickson Chumba,Dickson,Chumba,2:09:11,42.195,13/10/2019,Bank of America Chicago Marathon 2019,"Chicago, USA",27/10/1986,32.96,Nandi County,KEN,KEN,,
+8,Mo Farah,Mo,Farah,2:09:58,42.195,13/10/2019,Bank of America Chicago Marathon 2019,"Chicago, USA",23/03/1983,36.55,Mogadishu,SOM,GBR,175.26,58.05
+9,Jacob Riley,Jacob,Riley,2:10:36,42.195,13/10/2019,Bank of America Chicago Marathon 2019,"Chicago, USA",2/11/1988,35.94,,USA,USA,180.33,70.3
+10,Jerrell Mock,Jerrell,Mock,2:10:53,42.195,13/10/2019,Bank of America Chicago Marathon 2019,"Chicago, USA",1/1/1995,24.78,Utah,USA,USA,,
